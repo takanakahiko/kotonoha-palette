@@ -28,7 +28,7 @@
     "@cloudflare/workers-types": "^5.20261115.1",
     "@nuxt/fonts": "^0.14.0",
     "@playwright/test": "^1.58.2",
-    "nuxt": "^4.6.3",
+    "nuxt": "^4.6.4",
     "sass": "^1.98.0",
     "typescript": "^5.9.3",
     "wrangler": "^4.162.0"
